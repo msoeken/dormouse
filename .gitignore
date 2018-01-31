@@ -10,3 +10,6 @@
 
 # Cache
 /.cache/
+
+# Editor files
+/.vscode/
